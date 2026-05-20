@@ -1,0 +1,10 @@
+rxn_id,flux,experiment_id,flux_std_error
+R25,0.25,exp1,0.003
+R10,7,exp1,0.003
+R1,5.75,exp1,0.003
+R25,0.25,exp2,0.003
+R10,7,exp2,0.003
+R1,5.75,exp2,0.003
+R25,0.25,exp3,0.003
+R10,7,exp3,0.003
+R1,5.75,exp3,0.003
